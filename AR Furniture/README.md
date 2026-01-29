@@ -44,7 +44,7 @@ Assets/
 
 ---
 
-## ▶How to Run
+## How to Run
 
 1. Open project in Unity
 2. Import Vuforia Engine
@@ -67,11 +67,10 @@ Assets/
 
 ## Usage
 
-Scan different markers:
+Scan markers:
 
 * Chair → Chair model
-* Table → Table model
-* Sofa → Sofa model
+
 
 Each marker displays separate furniture.
 
