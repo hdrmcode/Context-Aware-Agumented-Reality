@@ -1,17 +1,16 @@
-Botanical Garden Flower AR Viewer (Field Study Project)
+##Botanical Garden Flower AR Viewer (Field Study Project)
 
 
  Flower AR Viewer (Field Study + Vuforia)
- Project Overview
+ 
+ ##Project Overview
 
 This project was developed after a field visit to a Botanical Garden/University Campus.
 Real flower images were captured and used as markers to create an educational AR flower viewer.
-
 When a flower image is scanned, the app displays its 3D model and botanical information.
-
 The aim is to combine AR with environmental learning.
 
-Features
+##Features
 
 Real-world flower image markers
 
@@ -25,7 +24,7 @@ Educational AR experience
 
 Text labels and descriptions
 
-Technologies Used
+##Technologies Used
 
 Unity
 
@@ -37,7 +36,7 @@ TextMeshPro
 
 Image-based tracking
 
-Project Structure
+##Project Structure
 
 Assets/
 
@@ -51,7 +50,7 @@ Scripts
 
 Vuforia Database
 
-How to Run
+##How to Run
 
 Import project into Unity
 
@@ -63,7 +62,7 @@ Build to Android
 
 Scan real flower images
 
-Learning Outcomes
+##Learning Outcomes
 
 Context-based AR design
 
@@ -75,6 +74,6 @@ Multi-target tracking
 
 Combining field research with AR
 
- Example
+ ##Example
 
 Scan a rose image → 3D rose model + details appear.
