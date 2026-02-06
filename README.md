@@ -1,4 +1,4 @@
-Introduction — Context Aware Augmented Reality
+Introduction — Context Aware Augmented Reality (61T1017)
 
 Context Aware Augmented Reality (CAAR) is an advanced form of Augmented Reality that enhances the real world by overlaying digital information based on the user’s surrounding environment, location, objects, and real-time context. Unlike traditional AR, which simply displays virtual objects, context-aware AR intelligently adapts the content according to the situation, making the interaction more meaningful and immersive.
 
